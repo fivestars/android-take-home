@@ -25,5 +25,5 @@ The plugin is already created for you, called `CommunicationPlugin`, you'll just
 - Cordova uses Plugins to enable communication to the native side, you should be using that mechanism in order to get bi-directional communication.
   - It's up to you what messages you want to pass and how you demonstrate bi-directional communication
   - [plugin documentation](https://cordova.apache.org/docs/en/latest/guide/hybrid/plugins)
-  - There should be enough functionality in Cordova to enable bi-directional communication without using a message bus library or something similar. Reading the Cordova source code should help.
+  - There should be enough functionality in Cordova to enable bi-directional communication without using a message bus library or something similar. Reading the `CordovaLib` source code should help.
 - The web app code will be located under `assets/www`
