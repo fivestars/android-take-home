@@ -15,6 +15,8 @@ Given this starting code, the goal is to host the Cordova application in a "Chat
 Once the sample Cordova application is running within the chat head, the secondary goal is to establish bi-directional communication with the web application using a Cordova Plugin.
 The plugin is already created for you, called `CommunicationPlugin`, you'll just need to modify this.
 
+Showcase the bi-directional communication by updating the Webapp UI from a Native-land button, and update the Native UI from a Webapp-land button. Get creative, and have fun with it!
+
 ## Notes
 
 - The included `CordovaLib` module will need to be modified
