@@ -2,7 +2,7 @@
   "name": "androidtakehome",
   "version": "1.0.0",
   "devDependencies": {
-    "cordova-android": "7.1.2",
-    "plugman": "1.5.1"
+    "cordova-android": "11.0.0",
+    "plugman": "3.0.1"
   }
 }
